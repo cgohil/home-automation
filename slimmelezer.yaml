@@ -30,7 +30,7 @@ wifi:
   password: !secret wifi_password
   fast_connect: on
   manual_ip: 
-    static_ip: 192.168.68.125
+    static_ip: 192.168.68.120
     gateway: 192.168.68.1
     subnet: 255.255.255.0  
   ap:
